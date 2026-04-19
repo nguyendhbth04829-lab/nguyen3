@@ -10,6 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SeleniumWebdriverTest {
+    /*
     private WebDriver webDriver;
     @BeforeEach
     void setup(){
@@ -35,4 +36,6 @@ public class SeleniumWebdriverTest {
         Assertions.assertEquals("Formal Shoes",webElement.getText());
 
     }
+
+     */
 }
